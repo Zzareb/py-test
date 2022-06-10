@@ -16,6 +16,6 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/Zzareb/py-test/issues"
     },
     license='MIT',
-    packages=['py-test'],
+    packages=['py_test'],
     install_requires=['boto3'],
 )
