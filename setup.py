@@ -10,7 +10,7 @@ setuptools.setup(
     author_email='zzareb@email.com',
     description='Testing installation of Package',
     long_description=long_description,
-    long_description_content_type="text/markdown",
+    #long_description_content_type="text/markdown",
     url='https://github.com/Zzareb/py-test',
     project_urls = {
         "Bug Tracker": "https://github.com/Zzareb/py-test/issues"
